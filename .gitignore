@@ -1,25 +1,69 @@
-*.class
+**/target/**
+**/**/target/*.*
+**/**/target
 
+#.idea
+.idea/**
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
 # Package Files #
-*.jar
-*.war
-
+**/*.ear
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+**/*.class
+# Package Files #
+**/src/main/webapp/**/*.jar
+**/*.war
 # gwt caches and compiled units #
-war/gwt_bree/
-gwt-unitCache/
-
+src/main/webapp/gwt_bree/
+**/gwt-unitCache/
 # boilerplate generated classes #
-.apt_generated/
-
+**/.apt_generated/
 # more caches and things from deploy #
-war/WEB-INF/deploy/
-war/WEB-INF/classes/
-
+**/src/main/webapp/WEB-INF/deploy/
+**/src/main/webapp/WEB-INF/classes/
 #compilation logs
-.gwt/
-
+**/.gwt/
 #gwt junit compilation files
-www-test/
-
-#old GWT (1.5) created this dir
-.gwt-tmp/
+**/www-test/
+**/dependency-reduced-pom.xml
+**/buildNumber.properties
+**/.mvn/timing.properties
+# Eclipse
+**/.classpath
+**/.project
+**/.settings/
+# Intellij
+**/*.iml
+**/*.iws
+.idea/libraries/*.*
+.idea/dataSources/*.*
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/$CACHE_FILE$
+.idea/.name
+**/*.iml
+**/*.iws
+**/*.log
+**/bin/
+.gradle
+/build/
+# Ignore Gradle GUI config
+gradle-app.setting
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+# Cache of project
+.gradletasknamecache
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties
+**/.vertx/**
+**/*.flattened-pom.xml
+**/*-fat.jar
+**/logs/*.*
+artifacts/**/*.*
+**/**/pom.xml.versionsBackup

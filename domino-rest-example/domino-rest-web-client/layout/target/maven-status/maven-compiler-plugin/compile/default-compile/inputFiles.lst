@@ -1,9 +1,0 @@
-/home/rjeeb/gwt-meeting/domino-rest-example/domino-rest-web-client/layout/src/main/java/org/dominokit/rest/example/shared/model/LayoutRequest.java
-/home/rjeeb/gwt-meeting/domino-rest-example/domino-rest-web-client/layout/src/main/java/org/dominokit/rest/example/client/views/ui/LayoutViewImpl.java
-/home/rjeeb/gwt-meeting/domino-rest-example/domino-rest-web-client/layout/src/main/java/org/dominokit/rest/example/client/presenters/LayoutProxy.java
-/home/rjeeb/gwt-meeting/domino-rest-example/domino-rest-web-client/layout/src/main/java/org/dominokit/rest/example/client/LayoutClientModule.java
-/home/rjeeb/gwt-meeting/domino-rest-example/domino-rest-web-client/layout/src/main/java/org/dominokit/rest/example/shared/events/LayoutEvent.java
-/home/rjeeb/gwt-meeting/domino-rest-example/domino-rest-web-client/layout/src/main/java/org/dominokit/rest/example/client/views/ui/CodeBlock.java
-/home/rjeeb/gwt-meeting/domino-rest-example/domino-rest-web-client/layout/src/main/java/org/dominokit/rest/example/shared/model/LayoutResponse.java
-/home/rjeeb/gwt-meeting/domino-rest-example/domino-rest-web-client/layout/src/main/java/org/dominokit/rest/example/client/views/LayoutView.java
-/home/rjeeb/gwt-meeting/domino-rest-example/domino-rest-web-client/layout/src/main/java/org/dominokit/rest/example/shared/services/LayoutService.java
