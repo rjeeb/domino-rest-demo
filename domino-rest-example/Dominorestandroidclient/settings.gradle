@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "Domino rest android client"
