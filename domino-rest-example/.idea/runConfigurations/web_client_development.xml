@@ -1,7 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="web-client-development" type="CompoundRunConfigurationType">
-    <toRun name="web-client-backend-dev-server" type="Application" />
-    <toRun name="web-client-frontend-dev-server" type="MavenRunConfiguration" />
-    <method v="2" />
-  </configuration>
-</component>
