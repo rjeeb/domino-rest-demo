@@ -13,7 +13,7 @@ public interface PersonService {
     @POST
     @Produces("application/json")
     @Consumes("application/json")
-    Person create(@HeaderParam("id") String id, Person person);
+    Person create(Person person);
 
     @Path("/{id}")
     @DELETE
