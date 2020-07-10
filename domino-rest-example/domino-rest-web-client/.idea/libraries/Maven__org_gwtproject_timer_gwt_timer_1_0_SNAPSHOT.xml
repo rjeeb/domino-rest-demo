@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gwtproject.timer:gwt-timer:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gwtproject/timer/gwt-timer/1.0-SNAPSHOT/gwt-timer-1.0-20200529.165417-11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gwtproject/timer/gwt-timer/1.0-SNAPSHOT/gwt-timer-1.0-20200529.165417-11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gwtproject/timer/gwt-timer/1.0-SNAPSHOT/gwt-timer-1.0-20200529.165417-11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

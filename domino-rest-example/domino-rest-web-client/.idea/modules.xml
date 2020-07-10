@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/domino-rest-web-client.iml" filepath="$PROJECT_DIR$/.idea/domino-rest-web-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domino-rest-web-client-backend/domino-rest-web-client-backend.iml" filepath="$PROJECT_DIR$/domino-rest-web-client-backend/domino-rest-web-client-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domino-rest-web-client-frontend/domino-rest-web-client-frontend.iml" filepath="$PROJECT_DIR$/domino-rest-web-client-frontend/domino-rest-web-client-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layout/layout.iml" filepath="$PROJECT_DIR$/layout/layout.iml" />
+    </modules>
+  </component>
+</project>

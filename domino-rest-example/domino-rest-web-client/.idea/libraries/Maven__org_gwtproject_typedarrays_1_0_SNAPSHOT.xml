@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gwtproject:typedarrays:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gwtproject/typedarrays/1.0-SNAPSHOT/typedarrays-1.0-20200529.080455-8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gwtproject/typedarrays/1.0-SNAPSHOT/typedarrays-1.0-20200529.080455-8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gwtproject/typedarrays/1.0-SNAPSHOT/typedarrays-1.0-20200529.080455-8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

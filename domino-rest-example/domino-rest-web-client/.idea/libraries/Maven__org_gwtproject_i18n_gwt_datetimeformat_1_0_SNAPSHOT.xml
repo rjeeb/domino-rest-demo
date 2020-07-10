@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gwtproject.i18n:gwt-datetimeformat:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gwtproject/i18n/gwt-datetimeformat/1.0-SNAPSHOT/gwt-datetimeformat-1.0-20200309.133307-5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gwtproject/i18n/gwt-datetimeformat/1.0-SNAPSHOT/gwt-datetimeformat-1.0-20200309.133307-5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gwtproject/i18n/gwt-datetimeformat/1.0-SNAPSHOT/gwt-datetimeformat-1.0-20200309.133307-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

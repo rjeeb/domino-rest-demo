@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.dominokit:domino-rest-gwt:1.0-rc.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-rest-gwt/1.0-rc.4-SNAPSHOT/domino-rest-gwt-1.0-rc.4-20200625.114243-32.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-rest-gwt/1.0-rc.4-SNAPSHOT/domino-rest-gwt-1.0-rc.4-20200625.114243-32-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-rest-gwt/1.0-rc.4-SNAPSHOT/domino-rest-gwt-1.0-rc.4-20200625.114243-32-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
